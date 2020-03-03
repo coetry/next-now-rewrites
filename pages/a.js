@@ -1,1 +1,1 @@
-export default () => <h1>AAAAA</h1>
+export default () => <h1 style={{color: 'red'}}>a</h1>
